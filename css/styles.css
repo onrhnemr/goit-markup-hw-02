@@ -4,7 +4,14 @@
     line-height: 24px;
 }
 .page-nav {}
-.page-title {
+.first section {
     background-color: #2E2F42;
     color: white;
+}
+.second-section .title {
+    color: #2E2F42;
+
+}
+.second-section .text {
+    color: #434455;
 }
