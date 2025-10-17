@@ -1,127 +1,127 @@
 .body {
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    line-height: 24px;
-}   
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
 .first-section {
-    background-color: #2E2F42;
-    color: #FFFFFF;
+  background-color: #2e2f42;
+  color: #ffffff;
 }
 .page-head {
-    font-weight: 700;
-    font-style: bold;
-    font-size: 56px;
-    line-height: 60px;
-    letter-spacing: 2px;
+  font-weight: 700;
+  font-style: bold;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 2px;
 }
 .button {
-    font-family: inherit;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    background-color: #4D5AE5;
-    color: white;
-    letter-spacing: 4px;
-    text-align: middle;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  background-color: #4d5ae5;
+  color: white;
+  letter-spacing: 4px;
+  cursor: pointer;
 }
 .button:hover,
-.button:focus{
-    color: #404BBF
+.button:focus {
+  color: #404bbf;
 }
 .second-section .title {
-    color: #2E2F42;
-    font-style: medium;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2px;
+  color: #2e2f42;
+  font-style: medium;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2px;
 }
 .second-section .text {
-    color: #434455;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2px;
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2px;
 }
-.web{
-font-family: 'Raleway', sans-serif;
-font-weight: 700;
-font-size: 18px;
-line-height: 21px;
-color: #4D5AE5;
-text-transform: uppercase;
-letter-spacing: 3px;
+.web {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  color: #4d5ae5;
+  text-transform: uppercase;
+  letter-spacing: 3px;
 }
-.web-part{
-    color:#2E2F42
+.web-part {
+  color: #2e2f42;
 }
 .nav-link {
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-color: #2E2F42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2e2f42;
 }
 .nav-link:hover,
 .nav-link:focus {
-    color: #404BBF;
+  color: #404bbf;
 }
 .address-link {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
 }
 .address-link:hover,
 .address-link:focus {
-    color: #404BBF
+  color: #404bbf;
 }
-.thirth-section{
-    background-color: #F4F4FD;
+.thirth-section {
+  background-color: #f4f4fd;
 }
-.img-link{
-    background-color: white;
+.img-link {
+  background-color: white;
 }
-.thirth-section .title1{
-    font-weight: 700;
-    font-style: bold;
-    font-size: 36px;
-    line-height: 40px;
-    letter-spacing: 2px;
+.thirth-section .title1 {
+  font-weight: 700;
+  font-style: bold;
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 2px;
 }
-.thirth-section .title2{
-    font-weight: 500;
-    font-style: medium;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2px;
+.thirth-section .title2 {
+  font-weight: 500;
+  font-style: medium;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2px;
 }
-.thirth-section .text2{
-    font-weight: 400;
-    font-style: regular;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2px;
+.thirth-section .text2 {
+  font-weight: 400;
+  font-style: regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2px;
 }
-.footer{
-    background-color: #2E2F42;
+.footer {
+  background-color: #2e2f42;
 }
-.footer-title{
-    font-family: 'Raleway', sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 21px;
-        color: #4D5AE5;
-        text-transform: uppercase;
-        letter-spacing: 3px;
+.footer-title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  color: #4d5ae5;
+  text-transform: uppercase;
+  letter-spacing: 3px;
 }
-.footer-part{
-    color: #F4F4FD;
+.footer-part {
+  color: #f4f4fd;
 }
-.footer .text{
-    font-weight: 400;
-    font-style: regular;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2px;
-    color: #F4F4FD;
+.footer .text {
+  font-weight: 400;
+  font-style: regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2px;
+  color: #f4f4fd;
 }
