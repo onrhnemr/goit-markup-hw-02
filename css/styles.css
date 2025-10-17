@@ -7,6 +7,13 @@
     background-color: #2E2F42;
     color: white;
 }
+.page-head {
+    font-weight: 700;
+    font-style: bold;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: %2;
+}
 .button {
     font-family: inherit;
     font-weight: 500;
@@ -14,6 +21,8 @@
     line-height: 24px;
     background-color: #4D5AE5;
     color: white;
+    letter-spacing: %4;
+    text-align: middle;
 }
 .button:hover,
 .button:focus{
@@ -25,12 +34,14 @@
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
+    letter-spacing: %2;
 }
 .second-section .text {
     color: #434455;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
+    letter-spacing: %2;
 }
 .web{
 font-family: 'Raleway', sans-serif;
@@ -38,6 +49,8 @@ font-weight: 700;
 font-size: 18px;
 line-height: 21px;
 color: #4D5AE5;
+text-transform: uppercase;
+letter-spacing: %3;
 }
 .web-part{
     color:#2E2F42
@@ -61,4 +74,54 @@ color: #2E2F42;
 .address-link:hover,
 .address-link:focus {
     color: #404BBF
+}
+.thirth-section{
+    background-color: #F4F4FD;
+}
+.img-link{
+    background-color: white;
+}
+.thirth-section .title1{
+    font-weight: 700;
+    font-style: bold;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: %2;
+}
+.thirth-section .title2{
+    font-weight: 500;
+    font-style: medium;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: %2;
+}
+.thirth-section .text2{
+    font-weight: 400;
+    font-style: regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: %2;
+}
+.footer{
+    background-color: #2E2F42;
+}
+.footer-title{
+    font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 21px;
+        color: #4D5AE5;
+        text-transform: uppercase;
+        letter-spacing: %3;
+}
+.footer-part{
+    color: #F4F4FD;
+}
+.footer .text{
+    font-weight: 400;
+    font-style: regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: %2;
+    color: #F4F4FD;
 }
