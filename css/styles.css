@@ -17,17 +17,17 @@ a {
 .page-head {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1, 071;
-  letter-spacing: 0, 02px;
+  line-height: 1.071;
+  letter-spacing: 0.02px;
 }
 .button {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   background-color: #4d5ae5;
   color: white;
-  letter-spacing: 0, 04px;
+  letter-spacing: 0.04px;
   cursor: pointer;
 }
 .button:hover,
@@ -41,14 +41,14 @@ a {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1, 2;
-  letter-spacing: 0, 02px;
+  line-height: 1.2;
+  letter-spacing: 0.02px;
 }
 .second-section .text {
   color: #434455;
   font-size: 16px;
-  line-height: 1, 5;
-  letter-spacing: 0, 02px;
+  line-height: 1.5;
+  letter-spacing: 0.02px;
 }
 .web {
   font-family: "Raleway", sans-serif;
@@ -57,7 +57,7 @@ a {
   line-height: 1.166;
   color: #4d5ae5;
   text-transform: uppercase;
-  letter-spacing: 0, 03px;
+  letter-spacing: 0.03px;
 }
 .web-part {
   color: #2e2f42;
@@ -65,7 +65,7 @@ a {
 .nav-link {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   color: #2e2f42;
 }
 .nav-link:hover,
@@ -74,7 +74,7 @@ a {
 }
 .address-link {
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   color: #434455;
 }
 .address-link:hover,
@@ -90,19 +90,19 @@ a {
 .thirth-section .title1 {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1, 111;
-  letter-spacing: 0, 02px;
+  line-height: 1.111;
+  letter-spacing: 0.02px;
 }
 .thirth-section .title2 {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1, 2;
-  letter-spacing: 0, 02px;
+  line-height: 1.2;
+  letter-spacing: 0.02px;
 }
 .thirth-section .text2 {
   font-size: 16px;
-  line-height: 1, 5;
-  letter-spacing: 0, 02px;
+  line-height: 1.5;
+  letter-spacing: 0.02px;
 }
 .footer {
   background-color: #2e2f42;
@@ -111,17 +111,17 @@ a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1, 166;
+  line-height: 1.166;
   color: #4d5ae5;
   text-transform: uppercase;
-  letter-spacing: 0, 03px;
+  letter-spacing: 0.03px;
 }
 .footer-part {
   color: #f4f4fd;
 }
 .footer .text {
   font-size: 16px;
-  line-height: 1, 5;
-  letter-spacing: 0, 02px;
+  line-height: 1.5;
+  letter-spacing: 0.02px;
   color: #f4f4fd;
 }
